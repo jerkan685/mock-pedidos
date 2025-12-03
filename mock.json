@@ -1,0 +1,1068 @@
+[
+  {
+    "id": "ff6ad005-dfb1-4899-9bfb-0031ec242014",
+    "orderNumber": "2180089314019",
+    "empty": false,
+    "itemsCount": 3,
+    "unitsCount": 5,
+    "amounts": {
+      "subtotal": 46.5,
+      "totalDiscounts": 0,
+      "shippingFee": 0,
+      "total": 46.5,
+      "currency": "PEN"
+    },
+    "status": "DELIVERED",
+    "store": {
+      "storeId": "2f61cf70-fbaa-4627-8dcc-749cf93cb3f1",
+      "name": "JOKR",
+      "label": "JOKR",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-02.appspot.com/o/backOffice-stores%2FJOKR_LOGO.png?alt=media&token=0049bc9f-ed27-4518-ba77-c9e2173bc4f9",
+      "smallImageUrl": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-02.appspot.com/o/backOffice-stores%2FJOKR_LOGO.png?alt=media&token=0049bc9f-ed27-4518-ba77-c9e2173bc4f9",
+      "backgroundColor": "003d73",
+      "fontColor": "56e39F",
+      "type": "JOKR",
+      "imageUrlTracking": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-004.appspot.com/o/PEDIDO%20EN%20CURSO%20-%20IMG_Mesa%20de%20trabajo%201%201.png?alt=media&token=7be219df-a87c-42d1-b728-eefd1d30b2da"
+    },
+    "createdAt": "2023-10-24 13:40:35",
+    "lastModifiedAt": "2023-10-24 15:40:23",
+    "recentActivities": [],
+    "shippingAddress": {
+      "shippingAddressesId": "31e3254c-6ad5-4ef9-8cc0-b377cdfcd687",
+      "addressName": "3 220",
+      "latitude": -12.098288165216864,
+      "longitude": -76.99640393257141,
+      "reference": "villa naval san borja, en calle 3",
+      "inside": "edificio 204 dpto 201",
+      "districtCode": 150130,
+      "provinceCode": "1501",
+      "departmentCode": "15"
+    },
+    "customerInfo": {
+      "customerId": "0f5b936a-f61e-4f65-bfde-5e91e3e7d436",
+      "name": null,
+      "phoneNumber": "934411150",
+      "email": "sofiasalde_1997@hotmail.com",
+      "invoice": { "businessName": null, "ruc": null }
+    },
+    "items": [
+      {
+        "id": "68fb9a03-8dab-4a41-926f-a2c7d7ba2e37",
+        "product": {
+          "id": "b8e73747-4ec1-489d-b5a7-5c87085f6a79",
+          "externalId": "7702044000905",
+          "name": "Infusiones Lipton Té Limón Y Jengibre Caja 10und",
+          "description": "Infusiones Lipton Té Limón Y Jengibre Caja 10und",
+          "brand": "LIPTON",
+          "brandId": "e0de7db3-16a6-4e95-9b2c-38bd3c09a8a9",
+          "categoryId": "cat_desayunos",
+          "category": "Desayunos",
+          "sku": "7702044000905",
+          "ean": "7702044000905",
+          "pack": false,
+          "measurementUnit": null,
+          "unitConversionFactor": 1,
+          "thumbImage": {
+            "url": "https://realplaza.vtexassets.com/arquivos/ids/176153-800-auto?aspect=true&height=auto&v=637297485221700000&width=800",
+            "altText": "Infusiones Lipton Té Limón Y Jengibre Caja 10und"
+          }
+        },
+        "quantity": 2,
+        "unitPrice": 8.5,
+        "presentationPrice": 8.5,
+        "units": 2,
+        "subTotal": 17,
+        "appliedDiscounts": [],
+        "totalAppliedDiscount": 0,
+        "total": 17,
+        "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
+        "sellerSubsidiaryId": "5d56a0bf-03e5-44d8-81bf-941f21b3f248"
+      },
+      {
+        "id": "0a8c626f-59de-4944-9507-f9899d55f1ec",
+        "product": {
+          "id": "b5c2ec2c-f749-49b4-bc0e-a059a9f1e1bb",
+          "externalId": "2001020000000",
+          "name": "Triple Pollo En Pan Integral",
+          "description": "Triple Pollo En Pan Integral",
+          "brand": "PLAZA",
+          "brandId": "1c4f9b6d-2759-495f-9c5b-b0adc177a64e",
+          "categoryId": "cat_congelados",
+          "category": "Congelados",
+          "sku": "2001020000000",
+          "ean": "2001020000000",
+          "pack": false,
+          "measurementUnit": null,
+          "unitConversionFactor": 1,
+          "thumbImage": {
+            "url": "https://jokr-product-img.s3.amazonaws.com/prod/TRIPLEPOLLOENPANINTEGRAL.jpg",
+            "altText": "Triple Pollo En Pan Integral"
+          }
+        },
+        "quantity": 1,
+        "unitPrice": 6.5,
+        "presentationPrice": 6.5,
+        "units": 1,
+        "subTotal": 6.5,
+        "appliedDiscounts": [],
+        "totalAppliedDiscount": 0,
+        "total": 6.5,
+        "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
+        "sellerSubsidiaryId": "5d56a0bf-03e5-44d8-81bf-941f21b3f248"
+      },
+      {
+        "id": "e8aee7a7-1c21-4f2d-9fc7-9f4417632b2f",
+        "product": {
+          "id": "e1b65a91-571e-4b42-9e0c-74b786f56c82",
+          "externalId": "7756736000685",
+          "name": "Papas Inka Chips Bbq & Cebolla Bolsa 135G",
+          "description": "Papas Inka Chips Bbq & Cebolla Bolsa 135G",
+          "brand": "INKA CHIPS",
+          "brandId": "4b5682b5-a2cf-47ad-bf51-9624f9690498",
+          "categoryId": "cat_snacks_y_piqueos",
+          "category": "Snacks y Piqueos",
+          "sku": "7756736000685",
+          "ean": "7756736000685",
+          "pack": false,
+          "measurementUnit": null,
+          "unitConversionFactor": 1,
+          "thumbImage": {
+            "url": "https://media.falabella.com/tottusPE/43036402_1/w%3D800%2Ch%3D800%2Cfit%3Dpad",
+            "altText": "Papas Inka Chips Bbq & Cebolla Bolsa 135G"
+          }
+        },
+        "quantity": 2,
+        "unitPrice": 11.5,
+        "presentationPrice": 11.5,
+        "units": 2,
+        "subTotal": 23,
+        "appliedDiscounts": [],
+        "totalAppliedDiscount": 0,
+        "total": 23,
+        "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
+        "sellerSubsidiaryId": "5d56a0bf-03e5-44d8-81bf-941f21b3f248"
+      }
+    ]
+  },
+  {
+    "id": "fe3e0788-1d6c-4693-a642-648b7c2f6a9f",
+    "orderNumber": "7089471",
+    "empty": false,
+    "itemsCount": 4,
+    "unitsCount": 6,
+    "amounts": {
+      "subtotal": 83,
+      "totalDiscounts": 0,
+      "shippingFee": 0,
+      "total": 83,
+      "currency": "PEN"
+    },
+    "status": "INPROGRESS",
+    "store": {
+      "storeId": "2f61cf70-fbaa-4627-8dcc-749cf93cb3f1",
+      "name": "JOKR",
+      "label": "JOKR",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-02.appspot.com/o/backOffice-stores%2FJOKR_LOGO.png?alt=media&token=0049bc9f-ed27-4518-ba77-c9e2173bc4f9",
+      "smallImageUrl": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-02.appspot.com/o/backOffice-stores%2FJOKR_LOGO.png?alt=media&token=0049bc9f-ed27-4518-ba77-c9e2173bc4f9",
+      "backgroundColor": "003d73",
+      "fontColor": "56e39F",
+      "type": "JOKR",
+      "imageUrlTracking": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-004.appspot.com/o/PEDIDO%20EN%20CURSO%20-%20IMG_Mesa%20de%20trabajo%201%201.png?alt=media&token=7be219df-a87c-42d1-b728-eefd1d30b2da"
+    },
+    "createdAt": "2023-10-20 20:15:46",
+    "lastModifiedAt": "2023-10-20 20:15:46",
+    "recentActivities": [],
+    "shippingAddress": {
+      "shippingAddressesId": "c6b95762-5c2c-4c7f-bc74-e8ab393ca5c6",
+      "addressName": "PUENTE VIEJO 647",
+      "latitude": -12.0829583668708,
+      "longitude": -77.09708268863015,
+      "reference": "Antes de llegar a la cuadra 7 de la Av. San Felipe, al costado del parque",
+      "inside": "Departamento 301",
+      "districtCode": 150115,
+      "provinceCode": "1501",
+      "departmentCode": "15"
+    },
+    "customerInfo": {
+      "customerId": "82815ea3-6b17-4a7d-a19b-03d11f14a0cc",
+      "name": null,
+      "phoneNumber": "940357087",
+      "email": "joseluis.mh97@gmail.com",
+      "invoice": { "businessName": null, "ruc": null }
+    },
+    "items": [
+      {
+        "id": "cdafb41d-7e2e-4aff-9d58-9d58c41bbf3e",
+        "product": {
+          "id": "c41f1785-b7b1-4309-8a10-c9d4846d394a",
+          "externalId": "7750243031018",
+          "name": "Papas Lays Clásicas Bolsa 105G",
+          "description": "Papas Lays Clásicas Bolsa 105G",
+          "brand": "LAYS",
+          "brandId": "7d7d2c3a-6a2d-4b0b-9e3f-8f3c38aa9f13",
+          "categoryId": "cat_snacks_y_piqueos",
+          "category": "Snacks y Piqueos",
+          "sku": "7750243031018",
+          "ean": "7750243031018",
+          "pack": false,
+          "measurementUnit": null,
+          "unitConversionFactor": 1,
+          "thumbImage": {
+            "url": "https://walmartsv.vtexassets.com/arquivos/ids/760617/53613_01.jpg?v=638872437053970000",
+            "altText": "Papas Lays Clásicas Bolsa 105G"
+          }
+        },
+        "quantity": 2,
+        "unitPrice": 8.5,
+        "presentationPrice": 8.5,
+        "units": 2,
+        "subTotal": 17,
+        "appliedDiscounts": [],
+        "totalAppliedDiscount": 0,
+        "total": 17,
+        "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
+        "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
+      },
+      {
+        "id": "dcfb9cb1-0a76-4dfc-878b-cc6c7a43c7b9",
+        "product": {
+          "id": "f7fbc322-82de-429d-a03b-a364a6c53d62",
+          "externalId": "7756721001167",
+          "name": "Papas Inka Chips Paprika Bolsa 135G",
+          "description": "Papas Inka Chips Paprika Bolsa 135G",
+          "brand": "INKA CHIPS",
+          "brandId": "4b5682b5-a2cf-47ad-bf51-9624f9690498",
+          "categoryId": "cat_snacks_y_piqueos",
+          "category": "Snacks y Piqueos",
+          "sku": "7756721001167",
+          "ean": "7756721001167",
+          "pack": false,
+          "measurementUnit": null,
+          "unitConversionFactor": 1,
+          "thumbImage": {
+            "url": "https://media.falabella.com/tottusPE/43036266_1/w%3D800%2Ch%3D800%2Cfit%3Dpad",
+            "altText": "Papas Inka Chips Paprika Bolsa 135G"
+          }
+        },
+        "quantity": 2,
+        "unitPrice": 10.5,
+        "presentationPrice": 10.5,
+        "units": 2,
+        "subTotal": 21,
+        "appliedDiscounts": [],
+        "totalAppliedDiscount": 0,
+        "total": 21,
+        "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
+        "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
+      },
+      {
+        "id": "e2ce1f0f-74cb-4b7a-a9d7-6ab65c555fcd",
+        "product": {
+          "id": "6d604b6f-6bfa-47c8-8f68-d24e927fc342",
+          "externalId": "7756721001105",
+          "name": "Papas Inka Chips Papas Nativas Bolsa 135G",
+          "description": "Papas Inka Chips Papas Nativas Bolsa 135G",
+          "brand": "INKA CHIPS",
+          "brandId": "4b5682b5-a2cf-47ad-bf51-9624f9690498",
+          "categoryId": "cat_snacks_y_piqueos",
+          "category": "Snacks y Piqueos",
+          "sku": "7756721001105",
+          "ean": "7756721001105",
+          "pack": false,
+          "measurementUnit": null,
+          "unitConversionFactor": 1,
+          "thumbImage": {
+            "url": "https://f.fcdn.app/imgs/cdd4a1/www.lamolienda.uy/moliuy/ac04/webp/catalogo/000000000194065_000000000194065_1/1024-1024/papas-nativas-135g-inka-chips-papas-nativas-inka-chips-135g.jpg",
+            "altText": "Papas Inka Chips Papas Nativas Bolsa 135G"
+          }
+        },
+        "quantity": 1,
+        "unitPrice": 10.5,
+        "presentationPrice": 10.5,
+        "units": 1,
+        "subTotal": 10.5,
+        "appliedDiscounts": [],
+        "totalAppliedDiscount": 0,
+        "total": 10.5,
+        "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
+        "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
+      },
+      {
+        "id": "b9df9d88-2b3a-4d64-946f-23ddfdb9e9f6",
+        "product": {
+          "id": "df7f1c40-8f03-4ef7-9d9b-2bc4d1a0e6a3",
+          "externalId": "7750243031025",
+          "name": "Papas Lays Ondas Queso Bolsa 105G",
+          "description": "Papas Lays Ondas Queso Bolsa 105G",
+          "brand": "LAYS",
+          "brandId": "7d7d2c3a-6a2d-4b0b-9e3f-8f3c38aa9f13",
+          "categoryId": "cat_snacks_y_piqueos",
+          "category": "Snacks y Piqueos",
+          "sku": "7750243031025",
+          "ean": "7750243031025",
+          "pack": false,
+          "measurementUnit": null,
+          "unitConversionFactor": 1,
+          "thumbImage": {
+            "url": "https://walmartsv.vtexassets.com/arquivos/ids/760617/53613_01.jpg?v=638872437053970000",
+            "altText": "Papas Lays Ondas Queso Bolsa 105G"
+          }
+        },
+        "quantity": 1,
+        "unitPrice": 24.5,
+        "presentationPrice": 24.5,
+        "units": 1,
+        "subTotal": 24.5,
+        "appliedDiscounts": [],
+        "totalAppliedDiscount": 0,
+        "total": 24.5,
+        "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
+        "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
+      }
+    ]
+  },
+  {
+    "id": "fdd47d8a-22f7-4d33-8d8c-d5a4b47b03b2",
+    "orderNumber": "2180089034955",
+    "empty": false,
+    "itemsCount": 1,
+    "unitsCount": 1,
+    "amounts": {
+      "subtotal": 23.9,
+      "totalDiscounts": 0,
+      "shippingFee": 0,
+      "total": 23.9,
+      "currency": "PEN"
+    },
+    "status": "INPROGRESS",
+    "store": {
+      "storeId": "2f61cf70-fbaa-4627-8dcc-749cf93cb3f1",
+      "name": "JOKR",
+      "label": "JOKR",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-02.appspot.com/o/backOffice-stores%2FJOKR_LOGO.png?alt=media&token=0049bc9f-ed27-4518-ba77-c9e2173bc4f9",
+      "smallImageUrl": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-02.appspot.com/o/backOffice-stores%2FJOKR_LOGO.png?alt=media&token=0049bc9f-ed27-4518-ba77-c9e2173bc4f9",
+      "backgroundColor": "003d73",
+      "fontColor": "56e39F",
+      "type": "JOKR",
+      "imageUrlTracking": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-004.appspot.com/o/PEDIDO%20EN%20CURSO%20-%20IMG_Mesa%20de%20trabajo%201%201.png?alt=media&token=7be219df-a87c-42d1-b728-eefd1d30b2da"
+    },
+    "createdAt": "2023-10-20 17:35:24",
+    "lastModifiedAt": "2023-10-20 17:35:24",
+    "recentActivities": [],
+    "shippingAddress": {
+      "shippingAddressesId": "b8317e52-ef27-45a3-adee-baa32a788ed4",
+      "addressName": "AV. SAN FELIPE 500",
+      "latitude": -12.086178948877524,
+      "longitude": -77.04808219626591,
+      "reference": "Frente a la universidad, edificio rojo",
+      "inside": "Departamento 402",
+      "districtCode": 150115,
+      "provinceCode": "1501",
+      "departmentCode": "15"
+    },
+    "customerInfo": {
+      "customerId": "f4651ecb-45e2-4d8d-b23e-4d0cbb5c9a3d",
+      "name": null,
+      "phoneNumber": "987654321",
+      "email": "cliente.ejemplo+3@gmail.com",
+      "invoice": { "businessName": null, "ruc": null }
+    },
+    "items": [
+      {
+        "id": "f03ae8ed-bd71-483b-99c7-0a9d8a7c6619",
+        "product": {
+          "id": "7e5e05ad-261e-4a0d-9dfd-a8a9c0a9fe3c",
+          "externalId": "7750243031018",
+          "name": "Papas Lays Clásicas Bolsa 105G",
+          "description": "Papas Lays Clásicas Bolsa 105G",
+          "brand": "LAYS",
+          "brandId": "7d7d2c3a-6a2d-4b0b-9e3f-8f3c38aa9f13",
+          "categoryId": "cat_snacks_y_piqueos",
+          "category": "Snacks y Piqueos",
+          "sku": "7750243031018",
+          "ean": "7750243031018",
+          "pack": false,
+          "measurementUnit": null,
+          "unitConversionFactor": 1,
+          "thumbImage": {
+            "url": "https://walmartsv.vtexassets.com/arquivos/ids/760617/53613_01.jpg?v=638872437053970000",
+            "altText": "Papas Lays Clásicas Bolsa 105G"
+          }
+        },
+        "quantity": 1,
+        "unitPrice": 23.9,
+        "presentationPrice": 23.9,
+        "units": 1,
+        "subTotal": 23.9,
+        "appliedDiscounts": [],
+        "totalAppliedDiscount": 0,
+        "total": 23.9,
+        "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
+        "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
+      }
+    ]
+  },
+  {
+    "id": "faaaaaaf-eb90-4bd5-95cf-35d55c115e09",
+    "orderNumber": "7088746",
+    "empty": false,
+    "itemsCount": 2,
+    "unitsCount": 3,
+    "amounts": {
+      "subtotal": 37.5,
+      "totalDiscounts": 0,
+      "shippingFee": 0,
+      "total": 37.5,
+      "currency": "PEN"
+    },
+    "status": "INPROGRESS",
+    "store": {
+      "storeId": "2f61cf70-fbaa-4627-8dcc-749cf93cb3f1",
+      "name": "JOKR",
+      "label": "JOKR",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-02.appspot.com/o/backOffice-stores%2FJOKR_LOGO.png?alt=media&token=0049bc9f-ed27-4518-ba77-c9e2173bc4f9",
+      "smallImageUrl": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-02.appspot.com/o/backOffice-stores%2FJOKR_LOGO.png?alt=media&token=0049bc9f-ed27-4518-ba77-c9e2173bc4f9",
+      "backgroundColor": "003d73",
+      "fontColor": "56e39F",
+      "type": "JOKR",
+      "imageUrlTracking": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-004.appspot.com/o/PEDIDO%20EN%20CURSO%20-%20IMG_Mesa%20de%20trabajo%201%201.png?alt=media&token=7be219df-a87c-42d1-b728-eefd1d30b2da"
+    },
+    "createdAt": "2023-10-20 16:12:41",
+    "lastModifiedAt": "2023-10-20 16:12:41",
+    "recentActivities": [],
+    "shippingAddress": {
+      "shippingAddressesId": "a9d479a4-4e71-4a60-86e1-df9ab0b9f34d",
+      "addressName": "JR. LOS EUCALIPTOS 150",
+      "latitude": -12.075847,
+      "longitude": -77.020457,
+      "reference": "Casa de dos pisos color crema, portón marrón",
+      "inside": "Casa",
+      "districtCode": 150114,
+      "provinceCode": "1501",
+      "departmentCode": "15"
+    },
+    "customerInfo": {
+      "customerId": "ba0f5a57-292f-4aef-bf8a-4f21a58a5dab",
+      "name": null,
+      "phoneNumber": "999555444",
+      "email": "cliente.ejemplo+4@gmail.com",
+      "invoice": { "businessName": null, "ruc": null }
+    },
+    "items": [
+      {
+        "id": "f7e9a4b2-5fbe-4b91-a089-68bfed0b51d9",
+        "product": {
+          "id": "f7fbc322-82de-429d-a03b-a364a6c53d62",
+          "externalId": "7756721001167",
+          "name": "Papas Inka Chips Paprika Bolsa 135G",
+          "description": "Papas Inka Chips Paprika Bolsa 135G",
+          "brand": "INKA CHIPS",
+          "brandId": "4b5682b5-a2cf-47ad-bf51-9624f9690498",
+          "categoryId": "cat_snacks_y_piqueos",
+          "category": "Snacks y Piqueos",
+          "sku": "7756721001167",
+          "ean": "7756721001167",
+          "pack": false,
+          "measurementUnit": null,
+          "unitConversionFactor": 1,
+          "thumbImage": {
+            "url": "https://media.falabella.com/tottusPE/43036266_1/w%3D800%2Ch%3D800%2Cfit%3Dpad",
+            "altText": "Papas Inka Chips Paprika Bolsa 135G"
+          }
+        },
+        "quantity": 1,
+        "unitPrice": 13.5,
+        "presentationPrice": 13.5,
+        "units": 1,
+        "subTotal": 13.5,
+        "appliedDiscounts": [],
+        "totalAppliedDiscount": 0,
+        "total": 13.5,
+        "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
+        "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
+      },
+      {
+        "id": "b3d69f4b-04f6-46aa-ad5e-a8fc9cb3dfef",
+        "product": {
+          "id": "6d604b6f-6bfa-47c8-8f68-d24e927fc342",
+          "externalId": "7756721001105",
+          "name": "Papas Inka Chips Papas Nativas Bolsa 135G",
+          "description": "Papas Inka Chips Papas Nativas Bolsa 135G",
+          "brand": "INKA CHIPS",
+          "brandId": "4b5682b5-a2cf-47ad-bf51-9624f9690498",
+          "categoryId": "cat_snacks_y_piqueos",
+          "category": "Snacks y Piqueos",
+          "sku": "7756721001105",
+          "ean": "7756721001105",
+          "pack": false,
+          "measurementUnit": null,
+          "unitConversionFactor": 1,
+          "thumbImage": {
+            "url": "https://f.fcdn.app/imgs/cdd4a1/www.lamolienda.uy/moliuy/ac04/webp/catalogo/000000000194065_000000000194065_1/1024-1024/papas-nativas-135g-inka-chips-papas-nativas-inka-chips-135g.jpg",
+            "altText": "Papas Inka Chips Papas Nativas Bolsa 135G"
+          }
+        },
+        "quantity": 2,
+        "unitPrice": 12,
+        "presentationPrice": 12,
+        "units": 2,
+        "subTotal": 24,
+        "appliedDiscounts": [],
+        "totalAppliedDiscount": 0,
+        "total": 24,
+        "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
+        "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
+      }
+    ]
+  },
+  {
+    "id": "f8050d48-5a51-49b9-aa42-fbef0a00b7b0",
+    "orderNumber": "2180088337163",
+    "empty": false,
+    "itemsCount": 2,
+    "unitsCount": 3,
+    "amounts": {
+      "subtotal": 54.7,
+      "totalDiscounts": 0,
+      "shippingFee": 0,
+      "total": 54.7,
+      "currency": "PEN"
+    },
+    "status": "DELIVERED",
+    "store": {
+      "storeId": "2f61cf70-fbaa-4627-8dcc-749cf93cb3f1",
+      "name": "JOKR",
+      "label": "JOKR",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-02.appspot.com/o/backOffice-stores%2FJOKR_LOGO.png?alt=media&token=0049bc9f-ed27-4518-ba77-c9e2173bc4f9",
+      "smallImageUrl": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-02.appspot.com/o/backOffice-stores%2FJOKR_LOGO.png?alt=media&token=0049bc9f-ed27-4518-ba77-c9e2173bc4f9",
+      "backgroundColor": "003d73",
+      "fontColor": "56e39F",
+      "type": "JOKR",
+      "imageUrlTracking": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-004.appspot.com/o/PEDIDO%20EN%20CURSO%20-%20IMG_Mesa%20de%20trabajo%201%201.png?alt=media&token=7be219df-a87c-42d1-b728-eefd1d30b2da"
+    },
+    "createdAt": "2023-10-20 15:29:45",
+    "lastModifiedAt": "2023-10-20 15:29:45",
+    "recentActivities": [],
+    "shippingAddress": {
+      "shippingAddressesId": "f8a96c2e-5730-4a89-abd6-81c25f85cfba",
+      "addressName": "CAL. LOS GERANIOS 123",
+      "latitude": -12.085,
+      "longitude": -77.05,
+      "reference": "Frente al parque principal",
+      "inside": "Departamento 202",
+      "districtCode": 150116,
+      "provinceCode": "1501",
+      "departmentCode": "15"
+    },
+    "customerInfo": {
+      "customerId": "2e4a3c1b-88d3-4d13-9d21-0c9b9edc6a23",
+      "name": null,
+      "phoneNumber": "999111222",
+      "email": "cliente.ejemplo+5@gmail.com",
+      "invoice": { "businessName": null, "ruc": null }
+    },
+    "items": [
+      {
+        "id": "1f1c5540-2af2-4d5f-a801-70910542d91d",
+        "product": {
+          "id": "c41f1785-b7b1-4309-8a10-c9d4846d394a",
+          "externalId": "7750243031018",
+          "name": "Papas Lays Clásicas Bolsa 105G",
+          "description": "Papas Lays Clásicas Bolsa 105G",
+          "brand": "LAYS",
+          "brandId": "7d7d2c3a-6a2d-4b0b-9e3f-8f3c38aa9f13",
+          "categoryId": "cat_snacks_y_piqueos",
+          "category": "Snacks y Piqueos",
+          "sku": "7750243031018",
+          "ean": "7750243031018",
+          "pack": false,
+          "measurementUnit": null,
+          "unitConversionFactor": 1,
+          "thumbImage": {
+            "url": "https://walmartsv.vtexassets.com/arquivos/ids/760617/53613_01.jpg?v=638872437053970000",
+            "altText": "Papas Lays Clásicas Bolsa 105G"
+          }
+        },
+        "quantity": 1,
+        "unitPrice": 22.8,
+        "presentationPrice": 22.8,
+        "units": 1,
+        "subTotal": 22.8,
+        "appliedDiscounts": [],
+        "totalAppliedDiscount": 0,
+        "total": 22.8,
+        "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
+        "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
+      },
+      {
+        "id": "cb1ac809-1720-4ff3-a099-026420e6c85c",
+        "product": {
+          "id": "f7fbc322-82de-429d-a03b-a364a6c53d62",
+          "externalId": "7756721001167",
+          "name": "Papas Inka Chips Paprika Bolsa 135G",
+          "description": "Papas Inka Chips Paprika Bolsa 135G",
+          "brand": "INKA CHIPS",
+          "brandId": "4b5682b5-a2cf-47ad-bf51-9624f9690498",
+          "categoryId": "cat_snacks_y_piqueos",
+          "category": "Snacks y Piqueos",
+          "sku": "7756721001167",
+          "ean": "7756721001167",
+          "pack": false,
+          "measurementUnit": null,
+          "unitConversionFactor": 1,
+          "thumbImage": {
+            "url": "https://media.falabella.com/tottusPE/43036266_1/w%3D800%2Ch%3D800%2Cfit%3Dpad",
+            "altText": "Papas Inka Chips Paprika Bolsa 135G"
+          }
+        },
+        "quantity": 2,
+        "unitPrice": 15.95,
+        "presentationPrice": 15.95,
+        "units": 2,
+        "subTotal": 31.9,
+        "appliedDiscounts": [],
+        "totalAppliedDiscount": 0,
+        "total": 31.9,
+        "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
+        "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
+      }
+    ]
+  },
+  {
+    "id": "f3c3efa2-eb78-4e54-a53a-911b7dd345b2",
+    "orderNumber": "2500087772800",
+    "empty": false,
+    "itemsCount": 2,
+    "unitsCount": 2,
+    "amounts": {
+      "subtotal": 25.5,
+      "totalDiscounts": 0,
+      "shippingFee": 0,
+      "total": 25.5,
+      "currency": "PEN"
+    },
+    "status": "DELIVERED",
+    "store": {
+      "storeId": "2f61cf70-fbaa-4627-8dcc-749cf93cb3f1",
+      "name": "JOKR",
+      "label": "JOKR",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-02.appspot.com/o/backOffice-stores%2FJOKR_LOGO.png?alt=media&token=0049bc9f-ed27-4518-ba77-c9e2173bc4f9",
+      "smallImageUrl": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-02.appspot.com/o/backOffice-stores%2FJOKR_LOGO.png?alt=media&token=0049bc9f-ed27-4518-ba77-c9e2173bc4f9",
+      "backgroundColor": "003d73",
+      "fontColor": "56e39F",
+      "type": "JOKR",
+      "imageUrlTracking": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-004.appspot.com/o/PEDIDO%20EN%20CURSO%20-%20IMG_Mesa%20de%20trabajo%201%201.png?alt=media&token=7be219df-a87c-42d1-b728-eefd1d30b2da"
+    },
+    "createdAt": "2023-10-20 14:45:10",
+    "lastModifiedAt": "2023-10-20 14:45:10",
+    "recentActivities": [],
+    "shippingAddress": {
+      "shippingAddressesId": "d4b57dbb-fcdd-49c0-8e19-20b29f997168",
+      "addressName": "CAL. LOS ALAMOS 321",
+      "latitude": -12.09,
+      "longitude": -77.03,
+      "reference": "Casa con reja blanca, frente a parque pequeño",
+      "inside": "Casa",
+      "districtCode": 150116,
+      "provinceCode": "1501",
+      "departmentCode": "15"
+    },
+    "customerInfo": {
+      "customerId": "3a4f5b6c-7d8e-4f90-9b10-a2c3d4e5f6a7",
+      "name": null,
+      "phoneNumber": "988776655",
+      "email": "cliente.ejemplo+6@gmail.com",
+      "invoice": { "businessName": null, "ruc": null }
+    },
+    "items": [
+      {
+        "id": "98c3e2ce-bb3b-4cd7-bf53-42c9e4eb4b13",
+        "product": {
+          "id": "c41f1785-b7b1-4309-8a10-c9d4846d394a",
+          "externalId": "7750243031018",
+          "name": "Papas Lays Clásicas Bolsa 105G",
+          "description": "Papas Lays Clásicas Bolsa 105G",
+          "brand": "LAYS",
+          "brandId": "7d7d2c3a-6a2d-4b0b-9e3f-8f3c38aa9f13",
+          "categoryId": "cat_snacks_y_piqueos",
+          "category": "Snacks y Piqueos",
+          "sku": "7750243031018",
+          "ean": "7750243031018",
+          "pack": false,
+          "measurementUnit": null,
+          "unitConversionFactor": 1,
+          "thumbImage": {
+            "url": "https://walmartsv.vtexassets.com/arquivos/ids/760617/53613_01.jpg?v=638872437053970000",
+            "altText": "Papas Lays Clásicas Bolsa 105G"
+          }
+        },
+        "quantity": 1,
+        "unitPrice": 12.5,
+        "presentationPrice": 12.5,
+        "units": 1,
+        "subTotal": 12.5,
+        "appliedDiscounts": [],
+        "totalAppliedDiscount": 0,
+        "total": 12.5,
+        "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
+        "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
+      },
+      {
+        "id": "b6b4aa98-2072-4c7d-9e8c-5e530f436f50",
+        "product": {
+          "id": "6d604b6f-6bfa-47c8-8f68-d24e927fc342",
+          "externalId": "7756721001105",
+          "name": "Papas Inka Chips Papas Nativas Bolsa 135G",
+          "description": "Papas Inka Chips Papas Nativas Bolsa 135G",
+          "brand": "INKA CHIPS",
+          "brandId": "4b5682b5-a2cf-47ad-bf51-9624f9690498",
+          "categoryId": "cat_snacks_y_piqueos",
+          "category": "Snacks y Piqueos",
+          "sku": "7756721001105",
+          "ean": "7756721001105",
+          "pack": false,
+          "measurementUnit": null,
+          "unitConversionFactor": 1,
+          "thumbImage": {
+            "url": "https://f.fcdn.app/imgs/cdd4a1/www.lamolienda.uy/moliuy/ac04/webp/catalogo/000000000194065_000000000194065_1/1024-1024/papas-nativas-135g-inka-chips-papas-nativas-inka-chips-135g.jpg",
+            "altText": "Papas Inka Chips Papas Nativas Bolsa 135G"
+          }
+        },
+        "quantity": 1,
+        "unitPrice": 13,
+        "presentationPrice": 13,
+        "units": 1,
+        "subTotal": 13,
+        "appliedDiscounts": [],
+        "totalAppliedDiscount": 0,
+        "total": 13,
+        "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
+        "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
+      }
+    ]
+  },
+  {
+    "id": "f25d4353-bd75-47d7-bbaf-b6ac2b7a5f26",
+    "orderNumber": "2180065587314",
+    "empty": false,
+    "itemsCount": 1,
+    "unitsCount": 1,
+    "amounts": {
+      "subtotal": 11.9,
+      "totalDiscounts": 0,
+      "shippingFee": 0,
+      "total": 11.9,
+      "currency": "PEN"
+    },
+    "status": "INPROGRESS",
+    "store": {
+      "storeId": "2f61cf70-fbaa-4627-8dcc-749cf93cb3f1",
+      "name": "JOKR",
+      "label": "JOKR",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-02.appspot.com/o/backOffice-stores%2FJOKR_LOGO.png?alt=media&token=0049bc9f-ed27-4518-ba77-c9e2173bc4f9",
+      "smallImageUrl": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-02.appspot.com/o/backOffice-stores%2FJOKR_LOGO.png?alt=media&token=0049bc9f-ed27-4518-ba77-c9e2173bc4f9",
+      "backgroundColor": "003d73",
+      "fontColor": "56e39F",
+      "type": "JOKR",
+      "imageUrlTracking": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-004.appspot.com/o/PEDIDO%20EN%20CURSO%20-%20IMG_Mesa%20de%20trabajo%201%201.png?alt=media&token=7be219df-a87c-42d1-b728-eefd1d30b2da"
+    },
+    "createdAt": "2023-10-20 14:10:05",
+    "lastModifiedAt": "2023-10-20 14:10:05",
+    "recentActivities": [],
+    "shippingAddress": {
+      "shippingAddressesId": "e65a090f-8f50-4332-9d89-28198ca6c6f5",
+      "addressName": "CAL. LOS SAUCES 456",
+      "latitude": -12.095,
+      "longitude": -77.04,
+      "reference": "Casa de un piso con jardín",
+      "inside": "Casa",
+      "districtCode": 150116,
+      "provinceCode": "1501",
+      "departmentCode": "15"
+    },
+    "customerInfo": {
+      "customerId": "b2f1e2d3-c4a5-4b6c-8d9e-0f1a2b3c4d5e",
+      "name": null,
+      "phoneNumber": "977665544",
+      "email": "cliente.ejemplo+7@gmail.com",
+      "invoice": { "businessName": null, "ruc": null }
+    },
+    "items": [
+      {
+        "id": "3b2b086e-f6c2-4d9c-8c9c-c7147b9d9a95",
+        "product": {
+          "id": "c41f1785-b7b1-4309-8a10-c9d4846d394a",
+          "externalId": "7750243031018",
+          "name": "Papas Lays Clásicas Bolsa 105G",
+          "description": "Papas Lays Clásicas Bolsa 105G",
+          "brand": "LAYS",
+          "brandId": "7d7d2c3a-6a2d-4b0b-9e3f-8f3c38aa9f13",
+          "categoryId": "cat_snacks_y_piqueos",
+          "category": "Snacks y Piqueos",
+          "sku": "7750243031018",
+          "ean": "7750243031018",
+          "pack": false,
+          "measurementUnit": null,
+          "unitConversionFactor": 1,
+          "thumbImage": {
+            "url": "https://walmartsv.vtexassets.com/arquivos/ids/760617/53613_01.jpg?v=638872437053970000",
+            "altText": "Papas Lays Clásicas Bolsa 105G"
+          }
+        },
+        "quantity": 1,
+        "unitPrice": 11.9,
+        "presentationPrice": 11.9,
+        "units": 1,
+        "subTotal": 11.9,
+        "appliedDiscounts": [],
+        "totalAppliedDiscount": 0,
+        "total": 11.9,
+        "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
+        "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
+      }
+    ]
+  },
+  {
+    "id": "f2313243-c9d9-4975-b02e-426c2c1ee375",
+    "orderNumber": "2500087289544",
+    "empty": false,
+    "itemsCount": 1,
+    "unitsCount": 1,
+    "amounts": {
+      "subtotal": 12.5,
+      "totalDiscounts": 0,
+      "shippingFee": 0,
+      "total": 12.5,
+      "currency": "PEN"
+    },
+    "status": "DELIVERED",
+    "store": {
+      "storeId": "2f61cf70-fbaa-4627-8dcc-749cf93cb3f1",
+      "name": "JOKR",
+      "label": "JOKR",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-02.appspot.com/o/backOffice-stores%2FJOKR_LOGO.png?alt=media&token=0049bc9f-ed27-4518-ba77-c9e2173bc4f9",
+      "smallImageUrl": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-02.appspot.com/o/backOffice-stores%2FJOKR_LOGO.png?alt=media&token=0049bc9f-ed27-4518-ba77-c9e2173bc4f9",
+      "backgroundColor": "003d73",
+      "fontColor": "56e39F",
+      "type": "JOKR",
+      "imageUrlTracking": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-004.appspot.com/o/PEDIDO%20EN%20CURSO%20-%20IMG_Mesa%20de%20trabajo%201%201.png?alt=media&token=7be219df-a87c-42d1-b728-eefd1d30b2da"
+    },
+    "createdAt": "2023-10-20 13:55:30",
+    "lastModifiedAt": "2023-10-20 13:55:30",
+    "recentActivities": [],
+    "shippingAddress": {
+      "shippingAddressesId": "f0b7c9a1-b8d6-4f80-8a3e-52ed5fcf01c2",
+      "addressName": "CAL. LOS CIPRESES 789",
+      "latitude": -12.091,
+      "longitude": -77.041,
+      "reference": "Edificio amarillo, entrada B",
+      "inside": "Departamento 504",
+      "districtCode": 150116,
+      "provinceCode": "1501",
+      "departmentCode": "15"
+    },
+    "customerInfo": {
+      "customerId": "c3d4e5f6-a7b8-49c0-8d9e-0f1a2b3c4d5e",
+      "name": null,
+      "phoneNumber": "966554433",
+      "email": "cliente.ejemplo+8@gmail.com",
+      "invoice": { "businessName": null, "ruc": null }
+    },
+    "items": [
+      {
+        "id": "84906f9f-79a0-4f4a-babc-38787ebe80b0",
+        "product": {
+          "id": "c41f1785-b7b1-4309-8a10-c9d4846d394a",
+          "externalId": "7750243031018",
+          "name": "Papas Lays Clásicas Bolsa 105G",
+          "description": "Papas Lays Clásicas Bolsa 105G",
+          "brand": "LAYS",
+          "brandId": "7d7d2c3a-6a2d-4b0b-9e3f-8f3c38aa9f13",
+          "categoryId": "cat_snacks_y_piqueos",
+          "category": "Snacks y Piqueos",
+          "sku": "7750243031018",
+          "ean": "7750243031018",
+          "pack": false,
+          "measurementUnit": null,
+          "unitConversionFactor": 1,
+          "thumbImage": {
+            "url": "https://walmartsv.vtexassets.com/arquivos/ids/760617/53613_01.jpg?v=638872437053970000",
+            "altText": "Papas Lays Clásicas Bolsa 105G"
+          }
+        },
+        "quantity": 1,
+        "unitPrice": 12.5,
+        "presentationPrice": 12.5,
+        "units": 1,
+        "subTotal": 12.5,
+        "appliedDiscounts": [],
+        "totalAppliedDiscount": 0,
+        "total": 12.5,
+        "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
+        "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
+      }
+    ]
+  },
+  {
+    "id": "f171ebdd-8b0c-4a4d-b63d-44e5c62be28b",
+    "orderNumber": "7084106",
+    "empty": false,
+    "itemsCount": 1,
+    "unitsCount": 1,
+    "amounts": {
+      "subtotal": 9.9,
+      "totalDiscounts": 0,
+      "shippingFee": 0,
+      "total": 9.9,
+      "currency": "PEN"
+    },
+    "status": "DELIVERED",
+    "store": {
+      "storeId": "2f61cf70-fbaa-4627-8dcc-749cf93cb3f1",
+      "name": "JOKR",
+      "label": "JOKR",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-02.appspot.com/o/backOffice-stores%2FJOKR_LOGO.png?alt=media&token=0049bc9f-ed27-4518-ba77-c9e2173bc4f9",
+      "smallImageUrl": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-02.appspot.com/o/backOffice-stores%2FJOKR_LOGO.png?alt=media&token=0049bc9f-ed27-4518-ba77-c9e2173bc4f9",
+      "backgroundColor": "003d73",
+      "fontColor": "56e39F",
+      "type": "JOKR",
+      "imageUrlTracking": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-004.appspot.com/o/PEDIDO%20EN%20CURSO%20-%20IMG_Mesa%20de%20trabajo%201%201.png?alt=media&token=7be219df-a87c-42d1-b728-eefd1d30b2da"
+    },
+    "createdAt": "2023-10-20 13:40:12",
+    "lastModifiedAt": "2023-10-20 13:40:12",
+    "recentActivities": [],
+    "shippingAddress": {
+      "shippingAddressesId": "ab123456-7890-4abc-8def-1234567890ab",
+      "addressName": "AV. LOS OLIVOS 321",
+      "latitude": -12.092,
+      "longitude": -77.042,
+      "reference": "Frente a colegio nacional",
+      "inside": "Casa",
+      "districtCode": 150116,
+      "provinceCode": "1501",
+      "departmentCode": "15"
+    },
+    "customerInfo": {
+      "customerId": "d4e5f6a7-b8c9-40d1-8e2f-0a1b2c3d4e5f",
+      "name": null,
+      "phoneNumber": "955443322",
+      "email": "cliente.ejemplo+9@gmail.com",
+      "invoice": { "businessName": null, "ruc": null }
+    },
+    "items": [
+      {
+        "id": "a3a0e2b4-3bda-48eb-98f3-91b0ef9b8c4b",
+        "product": {
+          "id": "b8e73747-4ec1-489d-b5a7-5c87085f6a79",
+          "externalId": "7702044000905",
+          "name": "Infusiones Lipton Té Limón Y Jengibre Caja 10und",
+          "description": "Infusiones Lipton Té Limón Y Jengibre Caja 10und",
+          "brand": "LIPTON",
+          "brandId": "e0de7db3-16a6-4e95-9b2c-38bd3c09a8a9",
+          "categoryId": "cat_desayunos",
+          "category": "Desayunos",
+          "sku": "7702044000905",
+          "ean": "7702044000905",
+          "pack": false,
+          "measurementUnit": null,
+          "unitConversionFactor": 1,
+          "thumbImage": {
+            "url": "https://realplaza.vtexassets.com/arquivos/ids/176153-800-auto?aspect=true&height=auto&v=637297485221700000&width=800",
+            "altText": "Infusiones Lipton Té Limón Y Jengibre Caja 10und"
+          }
+        },
+        "quantity": 1,
+        "unitPrice": 9.9,
+        "presentationPrice": 9.9,
+        "units": 1,
+        "subTotal": 9.9,
+        "appliedDiscounts": [],
+        "totalAppliedDiscount": 0,
+        "total": 9.9,
+        "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
+        "sellerSubsidiaryId": "5d56a0bf-03e5-44d8-81bf-941f21b3f248"
+      }
+    ]
+  },
+  {
+    "id": "efc1282e-4a8d-4b62-9753-283843bfb712",
+    "orderNumber": "2180065532932",
+    "empty": false,
+    "itemsCount": 1,
+    "unitsCount": 1,
+    "amounts": {
+      "subtotal": 15,
+      "totalDiscounts": 0,
+      "shippingFee": 0,
+      "total": 15,
+      "currency": "PEN"
+    },
+    "status": "DELIVERED",
+    "store": {
+      "storeId": "2f61cf70-fbaa-4627-8dcc-749cf93cb3f1",
+      "name": "JOKR",
+      "label": "JOKR",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-02.appspot.com/o/backOffice-stores%2FJOKR_LOGO.png?alt=media&token=0049bc9f-ed27-4518-ba77-c9e2173bc4f9",
+      "smallImageUrl": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-02.appspot.com/o/backOffice-stores%2FJOKR_LOGO.png?alt=media&token=0049bc9f-ed27-4518-ba77-c9e2173bc4f9",
+      "backgroundColor": "003d73",
+      "fontColor": "56e39F",
+      "type": "JOKR",
+      "imageUrlTracking": "https://firebasestorage.googleapis.com/v0/b/pe-grupo-intercorp-cld-004.appspot.com/o/PEDIDO%20EN%20CURSO%20-%20IMG_Mesa%20de%20trabajo%201%201.png?alt=media&token=7be219df-a87c-42d1-b728-eefd1d30b2da"
+    },
+    "createdAt": "2023-10-20 13:25:48",
+    "lastModifiedAt": "2023-10-20 13:25:48",
+    "recentActivities": [],
+    "shippingAddress": {
+      "shippingAddressesId": "cdef1234-5678-4abc-9def-9876543210ab",
+      "addressName": "AV. LAS MAGNOLIAS 987",
+      "latitude": -12.093,
+      "longitude": -77.043,
+      "reference": "Edificio moderno con vidrio, puerta negra",
+      "inside": "Departamento 803",
+      "districtCode": 150116,
+      "provinceCode": "1501",
+      "departmentCode": "15"
+    },
+    "customerInfo": {
+      "customerId": "e5f6a7b8-c9d0-41e2-8f3a-0b1c2d3e4f5a",
+      "name": null,
+      "phoneNumber": "944332211",
+      "email": "cliente.ejemplo+10@gmail.com",
+      "invoice": { "businessName": null, "ruc": null }
+    },
+    "items": [
+      {
+        "id": "f9a8b7c6-d5e4-43f2-9a1b-2c3d4e5f6a7b",
+        "product": {
+          "id": "6d604b6f-6bfa-47c8-8f68-d24e927fc342",
+          "externalId": "7756721001105",
+          "name": "Papas Inka Chips Papas Nativas Bolsa 135G",
+          "description": "Papas Inka Chips Papas Nativas Bolsa 135G",
+          "brand": "INKA CHIPS",
+          "brandId": "4b5682b5-a2cf-47ad-bf51-9624f9690498",
+          "categoryId": "cat_snacks_y_piqueos",
+          "category": "Snacks y Piqueos",
+          "sku": "7756721001105",
+          "ean": "7756721001105",
+          "pack": false,
+          "measurementUnit": null,
+          "unitConversionFactor": 1,
+          "thumbImage": {
+            "url": "https://f.fcdn.app/imgs/cdd4a1/www.lamolienda.uy/moliuy/ac04/webp/catalogo/000000000194065_000000000194065_1/1024-1024/papas-nativas-135g-inka-chips-papas-nativas-inka-chips-135g.jpg",
+            "altText": "Papas Inka Chips Papas Nativas Bolsa 135G"
+          }
+        },
+        "quantity": 1,
+        "unitPrice": 15,
+        "presentationPrice": 15,
+        "units": 1,
+        "subTotal": 15,
+        "appliedDiscounts": [],
+        "totalAppliedDiscount": 0,
+        "total": 15,
+        "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
+        "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
+      }
+    ]
+  }
+]
