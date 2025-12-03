@@ -43,7 +43,10 @@
       "name": null,
       "phoneNumber": "934411150",
       "email": "sofiasalde_1997@hotmail.com",
-      "invoice": { "businessName": null, "ruc": null }
+      "invoice": {
+        "businessName": null,
+        "ruc": null
+      }
     },
     "items": [
       {
@@ -72,9 +75,30 @@
         "presentationPrice": 8.5,
         "units": 2,
         "subTotal": 17,
-        "appliedDiscounts": [],
-        "totalAppliedDiscount": 0,
-        "total": 17,
+        "appliedDiscounts": [
+          {
+            "id": "DISC-LIPTON-10",
+            "code": "discount_001",
+            "coupon": "LIPTON10",
+            "order": 1,
+            "name": "Descuento Lipton 10%",
+            "type": "PERCENTAGE",
+            "value": 10.0,
+            "calculatedAmount": 1.7
+          },
+          {
+            "id": "DISC-LIPTON-2",
+            "code": "discount_002",
+            "coupon": null,
+            "order": 2,
+            "name": "Descuento especial S/2",
+            "type": "FIXED_AMOUNT",
+            "value": 2.0,
+            "calculatedAmount": 2.0
+          }
+        ],
+        "totalAppliedDiscount": 3.7,
+        "total": 13.3,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "5d56a0bf-03e5-44d8-81bf-941f21b3f248"
       },
@@ -104,9 +128,20 @@
         "presentationPrice": 6.5,
         "units": 1,
         "subTotal": 6.5,
-        "appliedDiscounts": [],
-        "totalAppliedDiscount": 0,
-        "total": 6.5,
+        "appliedDiscounts": [
+          {
+            "id": "DISC-PLAZA-5",
+            "code": "discount_003",
+            "coupon": null,
+            "order": 1,
+            "name": "Descuento Plaza 5%",
+            "type": "PERCENTAGE",
+            "value": 5.0,
+            "calculatedAmount": 0.33
+          }
+        ],
+        "totalAppliedDiscount": 0.33,
+        "total": 6.17,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "5d56a0bf-03e5-44d8-81bf-941f21b3f248"
       },
@@ -136,9 +171,30 @@
         "presentationPrice": 11.5,
         "units": 2,
         "subTotal": 23,
-        "appliedDiscounts": [],
-        "totalAppliedDiscount": 0,
-        "total": 23,
+        "appliedDiscounts": [
+          {
+            "id": "DISC-INKA-3",
+            "code": "discount_004",
+            "coupon": "INKA3",
+            "order": 1,
+            "name": "Descuento Inka Chips S/3",
+            "type": "FIXED_AMOUNT",
+            "value": 3.0,
+            "calculatedAmount": 3.0
+          },
+          {
+            "id": "DISC-INKA-5",
+            "code": "discount_005",
+            "coupon": null,
+            "order": 2,
+            "name": "Promo Inka Chips 5%",
+            "type": "PERCENTAGE",
+            "value": 5.0,
+            "calculatedAmount": 1.15
+          }
+        ],
+        "totalAppliedDiscount": 4.15,
+        "total": 18.85,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "5d56a0bf-03e5-44d8-81bf-941f21b3f248"
       }
@@ -184,11 +240,14 @@
       "departmentCode": "15"
     },
     "customerInfo": {
-      "customerId": "82815ea3-6b17-4a7d-a19b-03d11f14a0cc",
+      "customerId": "f4651ecb-45e2-4d8d-b23e-4d0cbb5c9a3d",
       "name": null,
-      "phoneNumber": "940357087",
+      "phoneNumber": "987654321",
       "email": "joseluis.mh97@gmail.com",
-      "invoice": { "businessName": null, "ruc": null }
+      "invoice": {
+        "businessName": null,
+        "ruc": null
+      }
     },
     "items": [
       {
@@ -217,9 +276,30 @@
         "presentationPrice": 8.5,
         "units": 2,
         "subTotal": 17,
-        "appliedDiscounts": [],
-        "totalAppliedDiscount": 0,
-        "total": 17,
+        "appliedDiscounts": [
+          {
+            "id": "DISC-LAYS-2",
+            "code": "discount_004",
+            "coupon": null,
+            "order": 1,
+            "name": "Descuento Lays S/2",
+            "type": "FIXED_AMOUNT",
+            "value": 2.0,
+            "calculatedAmount": 2.0
+          },
+          {
+            "id": "DISC-LAYS-5",
+            "code": "discount_005",
+            "coupon": "PROMO5",
+            "order": 2,
+            "name": "Promo Lays 5%",
+            "type": "PERCENTAGE",
+            "value": 5.0,
+            "calculatedAmount": 0.85
+          }
+        ],
+        "totalAppliedDiscount": 2.85,
+        "total": 14.15,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       },
@@ -249,9 +329,20 @@
         "presentationPrice": 10.5,
         "units": 2,
         "subTotal": 21,
-        "appliedDiscounts": [],
-        "totalAppliedDiscount": 0,
-        "total": 21,
+        "appliedDiscounts": [
+          {
+            "id": "DISC-INKA-2",
+            "code": "discount_006",
+            "coupon": null,
+            "order": 1,
+            "name": "Descuento Inka Chips S/2",
+            "type": "FIXED_AMOUNT",
+            "value": 2.0,
+            "calculatedAmount": 2.0
+          }
+        ],
+        "totalAppliedDiscount": 2.0,
+        "total": 19.0,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       },
@@ -281,9 +372,30 @@
         "presentationPrice": 10.5,
         "units": 1,
         "subTotal": 10.5,
-        "appliedDiscounts": [],
-        "totalAppliedDiscount": 0,
-        "total": 10.5,
+        "appliedDiscounts": [
+          {
+            "id": "DISC-INKA-1",
+            "code": "discount_007",
+            "coupon": "INKA1",
+            "order": 1,
+            "name": "Descuento Inka Chips S/1",
+            "type": "FIXED_AMOUNT",
+            "value": 1.0,
+            "calculatedAmount": 1.0
+          },
+          {
+            "id": "DISC-INKA-10",
+            "code": "discount_008",
+            "coupon": null,
+            "order": 2,
+            "name": "Promo Inka Chips 10%",
+            "type": "PERCENTAGE",
+            "value": 10.0,
+            "calculatedAmount": 1.05
+          }
+        ],
+        "totalAppliedDiscount": 2.05,
+        "total": 8.45,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       },
@@ -365,7 +477,10 @@
       "name": null,
       "phoneNumber": "987654321",
       "email": "cliente.ejemplo+3@gmail.com",
-      "invoice": { "businessName": null, "ruc": null }
+      "invoice": {
+        "businessName": null,
+        "ruc": null
+      }
     },
     "items": [
       {
@@ -394,9 +509,30 @@
         "presentationPrice": 23.9,
         "units": 1,
         "subTotal": 23.9,
-        "appliedDiscounts": [],
-        "totalAppliedDiscount": 0,
-        "total": 23.9,
+        "appliedDiscounts": [
+          {
+            "id": "DISC-LAYS-3",
+            "code": "discount_009",
+            "coupon": null,
+            "order": 1,
+            "name": "Descuento Lays S/3",
+            "type": "FIXED_AMOUNT",
+            "value": 3.0,
+            "calculatedAmount": 3.0
+          },
+          {
+            "id": "DISC-LAYS-10",
+            "code": "discount_010",
+            "coupon": "PROMO10",
+            "order": 2,
+            "name": "Promo Lays 10%",
+            "type": "PERCENTAGE",
+            "value": 10.0,
+            "calculatedAmount": 2.39
+          }
+        ],
+        "totalAppliedDiscount": 5.39,
+        "total": 18.51,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       }
@@ -446,7 +582,10 @@
       "name": null,
       "phoneNumber": "999555444",
       "email": "cliente.ejemplo+4@gmail.com",
-      "invoice": { "businessName": null, "ruc": null }
+      "invoice": {
+        "businessName": null,
+        "ruc": null
+      }
     },
     "items": [
       {
@@ -475,9 +614,20 @@
         "presentationPrice": 13.5,
         "units": 1,
         "subTotal": 13.5,
-        "appliedDiscounts": [],
-        "totalAppliedDiscount": 0,
-        "total": 13.5,
+        "appliedDiscounts": [
+          {
+            "id": "DISC-INKA-2",
+            "code": "discount_011",
+            "coupon": null,
+            "order": 1,
+            "name": "Descuento Inka Chips S/2",
+            "type": "FIXED_AMOUNT",
+            "value": 2.0,
+            "calculatedAmount": 2.0
+          }
+        ],
+        "totalAppliedDiscount": 2.0,
+        "total": 11.5,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       },
@@ -507,9 +657,30 @@
         "presentationPrice": 12,
         "units": 2,
         "subTotal": 24,
-        "appliedDiscounts": [],
-        "totalAppliedDiscount": 0,
-        "total": 24,
+        "appliedDiscounts": [
+          {
+            "id": "DISC-INKA-3",
+            "code": "discount_012",
+            "coupon": null,
+            "order": 1,
+            "name": "Descuento Inka Chips S/3",
+            "type": "FIXED_AMOUNT",
+            "value": 3.0,
+            "calculatedAmount": 3.0
+          },
+          {
+            "id": "DISC-INKA-5",
+            "code": "discount_013",
+            "coupon": "PROMO5",
+            "order": 2,
+            "name": "Promo Inka Chips 5%",
+            "type": "PERCENTAGE",
+            "value": 5.0,
+            "calculatedAmount": 1.2
+          }
+        ],
+        "totalAppliedDiscount": 4.2,
+        "total": 19.8,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       }
@@ -559,7 +730,10 @@
       "name": null,
       "phoneNumber": "999111222",
       "email": "cliente.ejemplo+5@gmail.com",
-      "invoice": { "businessName": null, "ruc": null }
+      "invoice": {
+        "businessName": null,
+        "ruc": null
+      }
     },
     "items": [
       {
@@ -672,7 +846,10 @@
       "name": null,
       "phoneNumber": "988776655",
       "email": "cliente.ejemplo+6@gmail.com",
-      "invoice": { "businessName": null, "ruc": null }
+      "invoice": {
+        "businessName": null,
+        "ruc": null
+      }
     },
     "items": [
       {
@@ -785,7 +962,10 @@
       "name": null,
       "phoneNumber": "977665544",
       "email": "cliente.ejemplo+7@gmail.com",
-      "invoice": { "businessName": null, "ruc": null }
+      "invoice": {
+        "businessName": null,
+        "ruc": null
+      }
     },
     "items": [
       {
@@ -866,7 +1046,10 @@
       "name": null,
       "phoneNumber": "966554433",
       "email": "cliente.ejemplo+8@gmail.com",
-      "invoice": { "businessName": null, "ruc": null }
+      "invoice": {
+        "businessName": null,
+        "ruc": null
+      }
     },
     "items": [
       {
@@ -947,7 +1130,10 @@
       "name": null,
       "phoneNumber": "955443322",
       "email": "cliente.ejemplo+9@gmail.com",
-      "invoice": { "businessName": null, "ruc": null }
+      "invoice": {
+        "businessName": null,
+        "ruc": null
+      }
     },
     "items": [
       {
@@ -1028,7 +1214,10 @@
       "name": null,
       "phoneNumber": "944332211",
       "email": "cliente.ejemplo+10@gmail.com",
-      "invoice": { "businessName": null, "ruc": null }
+      "invoice": {
+        "businessName": null,
+        "ruc": null
+      }
     },
     "items": [
       {
