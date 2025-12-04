@@ -7,9 +7,18 @@
     "unitsCount": 5,
     "amounts": {
       "subtotal": 46.5,
-      "totalDiscounts": 0,
+      "totalDiscounts": 8.18,
       "shippingFee": 0,
-      "total": 46.5,
+      "serviceFee": 2.33,
+      "total": 40.65,
+      "currency": "PEN"
+    },
+    "paymentSummary": {
+      "status": "PAID",
+      "method": "CARD",
+      "provider": "VISA",
+      "installments": 1,
+      "paidAmount": 40.65,
       "currency": "PEN"
     },
     "status": "DELIVERED",
@@ -120,7 +129,7 @@
           "measurementUnit": null,
           "unitConversionFactor": 1,
           "thumbImage": {
-            "url": "https://jokr-product-img.s3.amazonaws.com/prod/TRIPLEPOLLOENPANINTEGRAL.jpg",
+            "url": "https://via.placeholder.com/800x800.png?text=Triple+Pollo+Pan+Integral",
             "altText": "Triple Pollo En Pan Integral"
           }
         },
@@ -210,10 +219,19 @@
     "itemsCount": 4,
     "unitsCount": 6,
     "amounts": {
-      "subtotal": 83,
-      "totalDiscounts": 0,
+      "subtotal": 73.0,
+      "totalDiscounts": 6.9,
       "shippingFee": 0,
-      "total": 83,
+      "serviceFee": 3.66,
+      "total": 69.76,
+      "currency": "PEN"
+    },
+    "paymentSummary": {
+      "status": "PENDING",
+      "method": null,
+      "provider": null,
+      "installments": 0,
+      "paidAmount": 0,
       "currency": "PEN"
     },
     "status": "INPROGRESS",
@@ -324,7 +342,7 @@
           "measurementUnit": null,
           "unitConversionFactor": 1,
           "thumbImage": {
-            "url": "https://media.falabella.com/tottusPE/43036266_1/w%3D800%2Ch%3D800%2Cfit%3Dpad",
+            "url": "https://media.falabella.com/tottusPE/43036402_1/w%3D800%2Ch%3D800%2Cfit%3Dpad",
             "altText": "Papas Inka Chips Paprika Bolsa 135G"
           }
         },
@@ -448,9 +466,18 @@
     "unitsCount": 1,
     "amounts": {
       "subtotal": 23.9,
-      "totalDiscounts": 0,
+      "totalDiscounts": 5.39,
       "shippingFee": 0,
-      "total": 23.9,
+      "serviceFee": 1.2,
+      "total": 19.71,
+      "currency": "PEN"
+    },
+    "paymentSummary": {
+      "status": "PENDING",
+      "method": null,
+      "provider": null,
+      "installments": 0,
+      "paidAmount": 0,
       "currency": "PEN"
     },
     "status": "INPROGRESS",
@@ -554,9 +581,18 @@
     "unitsCount": 3,
     "amounts": {
       "subtotal": 37.5,
-      "totalDiscounts": 0,
+      "totalDiscounts": 6.2,
       "shippingFee": 0,
-      "total": 37.5,
+      "serviceFee": 1.88,
+      "total": 33.18,
+      "currency": "PEN"
+    },
+    "paymentSummary": {
+      "status": "PENDING",
+      "method": null,
+      "provider": null,
+      "installments": 0,
+      "paidAmount": 0,
       "currency": "PEN"
     },
     "status": "INPROGRESS",
@@ -613,7 +649,7 @@
           "measurementUnit": null,
           "unitConversionFactor": 1,
           "thumbImage": {
-            "url": "https://media.falabella.com/tottusPE/43036266_1/w%3D800%2Ch%3D800%2Cfit%3Dpad",
+            "url": "https://media.falabella.com/tottusPE/43036402_1/w%3D800%2Ch%3D800%2Cfit%3Dpad",
             "altText": "Papas Inka Chips Paprika Bolsa 135G"
           }
         },
@@ -706,7 +742,16 @@
       "subtotal": 54.7,
       "totalDiscounts": 0,
       "shippingFee": 0,
-      "total": 54.7,
+      "serviceFee": 2.73,
+      "total": 57.43,
+      "currency": "PEN"
+    },
+    "paymentSummary": {
+      "status": "PAID",
+      "method": "CARD",
+      "provider": "VISA",
+      "installments": 1,
+      "paidAmount": 57.43,
       "currency": "PEN"
     },
     "status": "DELIVERED",
@@ -796,7 +841,7 @@
           "measurementUnit": null,
           "unitConversionFactor": 1,
           "thumbImage": {
-            "url": "https://media.falabella.com/tottusPE/43036266_1/w%3D800%2Ch%3D800%2Cfit%3Dpad",
+            "url": "https://media.falabella.com/tottusPE/43036402_1/w%3D800%2Ch%3D800%2Cfit%3Dpad",
             "altText": "Papas Inka Chips Paprika Bolsa 135G"
           }
         },
@@ -824,7 +869,16 @@
       "subtotal": 25.5,
       "totalDiscounts": 0,
       "shippingFee": 0,
-      "total": 25.5,
+      "serviceFee": 1.27,
+      "total": 26.77,
+      "currency": "PEN"
+    },
+    "paymentSummary": {
+      "status": "PAID",
+      "method": "CARD",
+      "provider": "VISA",
+      "installments": 1,
+      "paidAmount": 26.77,
       "currency": "PEN"
     },
     "status": "DELIVERED",
@@ -942,7 +996,16 @@
       "subtotal": 11.9,
       "totalDiscounts": 0,
       "shippingFee": 0,
-      "total": 11.9,
+      "serviceFee": 0.6,
+      "total": 12.5,
+      "currency": "PEN"
+    },
+    "paymentSummary": {
+      "status": "PENDING",
+      "method": null,
+      "provider": null,
+      "installments": 0,
+      "paidAmount": 0,
       "currency": "PEN"
     },
     "status": "INPROGRESS",
@@ -1027,7 +1090,16 @@
       "subtotal": 12.5,
       "totalDiscounts": 0,
       "shippingFee": 0,
-      "total": 12.5,
+      "serviceFee": 0.62,
+      "total": 13.12,
+      "currency": "PEN"
+    },
+    "paymentSummary": {
+      "status": "DELIVERED",
+      "method": "CARD",
+      "provider": "VISA",
+      "installments": 1,
+      "paidAmount": 13.12,
       "currency": "PEN"
     },
     "status": "DELIVERED",
@@ -1112,7 +1184,16 @@
       "subtotal": 9.9,
       "totalDiscounts": 0,
       "shippingFee": 0,
-      "total": 9.9,
+      "serviceFee": 0.5,
+      "total": 10.4,
+      "currency": "PEN"
+    },
+    "paymentSummary": {
+      "status": "DELIVERED",
+      "method": "CARD",
+      "provider": "VISA",
+      "installments": 1,
+      "paidAmount": 10.4,
       "currency": "PEN"
     },
     "status": "DELIVERED",
@@ -1197,7 +1278,16 @@
       "subtotal": 15,
       "totalDiscounts": 0,
       "shippingFee": 0,
-      "total": 15,
+      "serviceFee": 0.75,
+      "total": 15.75,
+      "currency": "PEN"
+    },
+    "paymentSummary": {
+      "status": "DELIVERED",
+      "method": "CARD",
+      "provider": "VISA",
+      "installments": 1,
+      "paidAmount": 15.75,
       "currency": "PEN"
     },
     "status": "DELIVERED",
