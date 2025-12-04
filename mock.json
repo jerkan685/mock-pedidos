@@ -99,6 +99,7 @@
         ],
         "totalAppliedDiscount": 3.7,
         "total": 13.3,
+        "serviceFee": 0.85,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "5d56a0bf-03e5-44d8-81bf-941f21b3f248"
       },
@@ -142,6 +143,7 @@
         ],
         "totalAppliedDiscount": 0.33,
         "total": 6.17,
+        "serviceFee": 0.33,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "5d56a0bf-03e5-44d8-81bf-941f21b3f248"
       },
@@ -195,6 +197,7 @@
         ],
         "totalAppliedDiscount": 4.15,
         "total": 18.85,
+        "serviceFee": 1.15,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "5d56a0bf-03e5-44d8-81bf-941f21b3f248"
       }
@@ -300,6 +303,7 @@
         ],
         "totalAppliedDiscount": 2.85,
         "total": 14.15,
+        "serviceFee": 0.85,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       },
@@ -343,6 +347,7 @@
         ],
         "totalAppliedDiscount": 2.0,
         "total": 19.0,
+        "serviceFee": 1.05,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       },
@@ -396,6 +401,7 @@
         ],
         "totalAppliedDiscount": 2.05,
         "total": 8.45,
+        "serviceFee": 0.53,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       },
@@ -428,6 +434,7 @@
         "appliedDiscounts": [],
         "totalAppliedDiscount": 0,
         "total": 24.5,
+        "serviceFee": 1.23,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       }
@@ -533,6 +540,7 @@
         ],
         "totalAppliedDiscount": 5.39,
         "total": 18.51,
+        "serviceFee": 1.2,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       }
@@ -628,6 +636,7 @@
         ],
         "totalAppliedDiscount": 2.0,
         "total": 11.5,
+        "serviceFee": 0.68,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       },
@@ -681,6 +690,7 @@
         ],
         "totalAppliedDiscount": 4.2,
         "total": 19.8,
+        "serviceFee": 1.2,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       }
@@ -765,6 +775,7 @@
         "appliedDiscounts": [],
         "totalAppliedDiscount": 0,
         "total": 22.8,
+        "serviceFee": 1.14,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       },
@@ -797,6 +808,7 @@
         "appliedDiscounts": [],
         "totalAppliedDiscount": 0,
         "total": 31.9,
+        "serviceFee": 1.59,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       }
@@ -881,6 +893,7 @@
         "appliedDiscounts": [],
         "totalAppliedDiscount": 0,
         "total": 12.5,
+        "serviceFee": 0.62,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       },
@@ -913,6 +926,7 @@
         "appliedDiscounts": [],
         "totalAppliedDiscount": 0,
         "total": 13,
+        "serviceFee": 0.65,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       }
@@ -997,6 +1011,7 @@
         "appliedDiscounts": [],
         "totalAppliedDiscount": 0,
         "total": 11.9,
+        "serviceFee": 0.6,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       }
@@ -1081,6 +1096,7 @@
         "appliedDiscounts": [],
         "totalAppliedDiscount": 0,
         "total": 12.5,
+        "serviceFee": 0.62,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       }
@@ -1165,6 +1181,7 @@
         "appliedDiscounts": [],
         "totalAppliedDiscount": 0,
         "total": 9.9,
+        "serviceFee": 0.5,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "5d56a0bf-03e5-44d8-81bf-941f21b3f248"
       }
@@ -1249,6 +1266,7 @@
         "appliedDiscounts": [],
         "totalAppliedDiscount": 0,
         "total": 15,
+        "serviceFee": 0.75,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       }
