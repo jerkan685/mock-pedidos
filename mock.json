@@ -8,12 +8,11 @@
     "amounts": {
       "subtotal": 46.5,
       "totalDiscounts": 8.18,
-      "shippingFee": 0,
       "serviceFee": 2.33,
-      "deliveryFee": 0,
+      "deliveryFee": 10,
       "discountServiceFee": 0,
-      "discountDeliveryFee": 0,
-      "total": 40.65,
+      "discountDeliveryFee": 2,
+      "total": 48.65,
       "currency": "PEN"
     },
     "paymentSummary": {
@@ -21,7 +20,7 @@
       "method": "CARD",
       "provider": "VISA",
       "installments": 1,
-      "paidAmount": 40.65,
+      "paidAmount": 48.65,
       "currency": "PEN"
     },
     "status": "DELIVERED",
@@ -95,7 +94,7 @@
             "order": 1,
             "name": "Descuento Lipton 10%",
             "type": "PERCENTAGE",
-            "value": 10.0,
+            "value": 10,
             "calculatedAmount": 1.7
           },
           {
@@ -105,13 +104,12 @@
             "order": 2,
             "name": "Descuento especial S/2",
             "type": "FIXED_AMOUNT",
-            "value": 2.0,
-            "calculatedAmount": 2.0
+            "value": 2,
+            "calculatedAmount": 2
           }
         ],
         "totalAppliedDiscount": 3.7,
         "total": 13.3,
-        "serviceFee": 0.85,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "5d56a0bf-03e5-44d8-81bf-941f21b3f248"
       },
@@ -149,13 +147,12 @@
             "order": 1,
             "name": "Descuento Plaza 5%",
             "type": "PERCENTAGE",
-            "value": 5.0,
+            "value": 5,
             "calculatedAmount": 0.33
           }
         ],
         "totalAppliedDiscount": 0.33,
         "total": 6.17,
-        "serviceFee": 0.33,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "5d56a0bf-03e5-44d8-81bf-941f21b3f248"
       },
@@ -193,8 +190,8 @@
             "order": 1,
             "name": "Descuento Inka Chips S/3",
             "type": "FIXED_AMOUNT",
-            "value": 3.0,
-            "calculatedAmount": 3.0
+            "value": 3,
+            "calculatedAmount": 3
           },
           {
             "id": "DISC-INKA-5",
@@ -203,13 +200,12 @@
             "order": 2,
             "name": "Promo Inka Chips 5%",
             "type": "PERCENTAGE",
-            "value": 5.0,
+            "value": 5,
             "calculatedAmount": 1.15
           }
         ],
         "totalAppliedDiscount": 4.15,
         "total": 18.85,
-        "serviceFee": 1.15,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "5d56a0bf-03e5-44d8-81bf-941f21b3f248"
       }
@@ -222,14 +218,13 @@
     "itemsCount": 4,
     "unitsCount": 6,
     "amounts": {
-      "subtotal": 73.0,
-      "totalDiscounts": 7.9,
-      "shippingFee": 0,
+      "subtotal": 73,
+      "totalDiscounts": 6.9,
       "serviceFee": 3.66,
-      "deliveryFee": 3.5,
+      "deliveryFee": 10,
       "discountServiceFee": 0,
-      "discountDeliveryFee": 1.0,
-      "total": 72.26,
+      "discountDeliveryFee": 2,
+      "total": 77.76,
       "currency": "PEN"
     },
     "paymentSummary": {
@@ -311,8 +306,8 @@
             "order": 1,
             "name": "Descuento Lays S/2",
             "type": "FIXED_AMOUNT",
-            "value": 2.0,
-            "calculatedAmount": 2.0
+            "value": 2,
+            "calculatedAmount": 2
           },
           {
             "id": "DISC-LAYS-5",
@@ -321,13 +316,12 @@
             "order": 2,
             "name": "Promo Lays 5%",
             "type": "PERCENTAGE",
-            "value": 5.0,
+            "value": 5,
             "calculatedAmount": 0.85
           }
         ],
         "totalAppliedDiscount": 2.85,
         "total": 14.15,
-        "serviceFee": 0.85,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       },
@@ -365,13 +359,12 @@
             "order": 1,
             "name": "Descuento Inka Chips S/2",
             "type": "FIXED_AMOUNT",
-            "value": 2.0,
-            "calculatedAmount": 2.0
+            "value": 2,
+            "calculatedAmount": 2
           }
         ],
-        "totalAppliedDiscount": 2.0,
-        "total": 19.0,
-        "serviceFee": 1.05,
+        "totalAppliedDiscount": 2,
+        "total": 19,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       },
@@ -409,8 +402,8 @@
             "order": 1,
             "name": "Descuento Inka Chips S/1",
             "type": "FIXED_AMOUNT",
-            "value": 1.0,
-            "calculatedAmount": 1.0
+            "value": 1,
+            "calculatedAmount": 1
           },
           {
             "id": "DISC-INKA-10",
@@ -419,13 +412,12 @@
             "order": 2,
             "name": "Promo Inka Chips 10%",
             "type": "PERCENTAGE",
-            "value": 10.0,
+            "value": 10,
             "calculatedAmount": 1.05
           }
         ],
         "totalAppliedDiscount": 2.05,
         "total": 8.45,
-        "serviceFee": 0.53,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       },
@@ -458,7 +450,6 @@
         "appliedDiscounts": [],
         "totalAppliedDiscount": 0,
         "total": 24.5,
-        "serviceFee": 1.23,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       }
@@ -472,13 +463,12 @@
     "unitsCount": 1,
     "amounts": {
       "subtotal": 23.9,
-      "totalDiscounts": 5.89,
-      "shippingFee": 0,
+      "totalDiscounts": 5.39,
       "serviceFee": 1.2,
-      "deliveryFee": 0,
+      "deliveryFee": 10,
       "discountServiceFee": 0.5,
-      "discountDeliveryFee": 0,
-      "total": 19.21,
+      "discountDeliveryFee": 2,
+      "total": 27.21,
       "currency": "PEN"
     },
     "paymentSummary": {
@@ -560,8 +550,8 @@
             "order": 1,
             "name": "Descuento Lays S/3",
             "type": "FIXED_AMOUNT",
-            "value": 3.0,
-            "calculatedAmount": 3.0
+            "value": 3,
+            "calculatedAmount": 3
           },
           {
             "id": "DISC-LAYS-10",
@@ -570,13 +560,12 @@
             "order": 2,
             "name": "Promo Lays 10%",
             "type": "PERCENTAGE",
-            "value": 10.0,
+            "value": 10,
             "calculatedAmount": 2.39
           }
         ],
         "totalAppliedDiscount": 5.39,
         "total": 18.51,
-        "serviceFee": 1.2,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       }
@@ -590,13 +579,12 @@
     "unitsCount": 3,
     "amounts": {
       "subtotal": 37.5,
-      "totalDiscounts": 7.5,
-      "shippingFee": 0,
+      "totalDiscounts": 6.2,
       "serviceFee": 1.88,
-      "deliveryFee": 2.5,
+      "deliveryFee": 10,
       "discountServiceFee": 0.3,
-      "discountDeliveryFee": 1.0,
-      "total": 34.38,
+      "discountDeliveryFee": 2,
+      "total": 40.88,
       "currency": "PEN"
     },
     "paymentSummary": {
@@ -678,13 +666,12 @@
             "order": 1,
             "name": "Descuento Inka Chips S/2",
             "type": "FIXED_AMOUNT",
-            "value": 2.0,
-            "calculatedAmount": 2.0
+            "value": 2,
+            "calculatedAmount": 2
           }
         ],
-        "totalAppliedDiscount": 2.0,
+        "totalAppliedDiscount": 2,
         "total": 11.5,
-        "serviceFee": 0.68,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       },
@@ -722,8 +709,8 @@
             "order": 1,
             "name": "Descuento Inka Chips S/3",
             "type": "FIXED_AMOUNT",
-            "value": 3.0,
-            "calculatedAmount": 3.0
+            "value": 3,
+            "calculatedAmount": 3
           },
           {
             "id": "DISC-INKA-5",
@@ -732,13 +719,12 @@
             "order": 2,
             "name": "Promo Inka Chips 5%",
             "type": "PERCENTAGE",
-            "value": 5.0,
+            "value": 5,
             "calculatedAmount": 1.2
           }
         ],
         "totalAppliedDiscount": 4.2,
         "total": 19.8,
-        "serviceFee": 1.2,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       }
@@ -752,13 +738,12 @@
     "unitsCount": 3,
     "amounts": {
       "subtotal": 54.7,
-      "totalDiscounts": 2.0,
-      "shippingFee": 0,
+      "totalDiscounts": 0,
       "serviceFee": 2.73,
-      "deliveryFee": 4.0,
+      "deliveryFee": 10,
       "discountServiceFee": 0.5,
-      "discountDeliveryFee": 1.5,
-      "total": 59.43,
+      "discountDeliveryFee": 2,
+      "total": 64.93,
       "currency": "PEN"
     },
     "paymentSummary": {
@@ -766,7 +751,7 @@
       "method": "CARD",
       "provider": "VISA",
       "installments": 1,
-      "paidAmount": 59.43,
+      "paidAmount": 64.93,
       "currency": "PEN"
     },
     "status": "DELIVERED",
@@ -835,7 +820,6 @@
         "appliedDiscounts": [],
         "totalAppliedDiscount": 0,
         "total": 22.8,
-        "serviceFee": 1.14,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       },
@@ -868,7 +852,6 @@
         "appliedDiscounts": [],
         "totalAppliedDiscount": 0,
         "total": 31.9,
-        "serviceFee": 1.59,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       }
@@ -882,13 +865,12 @@
     "unitsCount": 2,
     "amounts": {
       "subtotal": 25.5,
-      "totalDiscounts": 0.3,
-      "shippingFee": 0,
+      "totalDiscounts": 0,
       "serviceFee": 1.27,
-      "deliveryFee": 0,
+      "deliveryFee": 10,
       "discountServiceFee": 0.3,
-      "discountDeliveryFee": 0,
-      "total": 26.47,
+      "discountDeliveryFee": 2,
+      "total": 34.47,
       "currency": "PEN"
     },
     "paymentSummary": {
@@ -896,7 +878,7 @@
       "method": "CARD",
       "provider": "VISA",
       "installments": 1,
-      "paidAmount": 26.47,
+      "paidAmount": 34.47,
       "currency": "PEN"
     },
     "status": "DELIVERED",
@@ -965,7 +947,6 @@
         "appliedDiscounts": [],
         "totalAppliedDiscount": 0,
         "total": 12.5,
-        "serviceFee": 0.62,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       },
@@ -998,7 +979,6 @@
         "appliedDiscounts": [],
         "totalAppliedDiscount": 0,
         "total": 13,
-        "serviceFee": 0.65,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       }
@@ -1013,12 +993,11 @@
     "amounts": {
       "subtotal": 11.9,
       "totalDiscounts": 0,
-      "shippingFee": 0,
       "serviceFee": 0.6,
-      "deliveryFee": 0,
+      "deliveryFee": 10,
       "discountServiceFee": 0,
-      "discountDeliveryFee": 0,
-      "total": 12.5,
+      "discountDeliveryFee": 2,
+      "total": 20.5,
       "currency": "PEN"
     },
     "paymentSummary": {
@@ -1095,7 +1074,6 @@
         "appliedDiscounts": [],
         "totalAppliedDiscount": 0,
         "total": 11.9,
-        "serviceFee": 0.6,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       }
@@ -1109,13 +1087,12 @@
     "unitsCount": 1,
     "amounts": {
       "subtotal": 12.5,
-      "totalDiscounts": 0.5,
-      "shippingFee": 0,
+      "totalDiscounts": 0,
       "serviceFee": 0.62,
-      "deliveryFee": 1.5,
+      "deliveryFee": 10,
       "discountServiceFee": 0,
-      "discountDeliveryFee": 0.5,
-      "total": 14.12,
+      "discountDeliveryFee": 2,
+      "total": 21.12,
       "currency": "PEN"
     },
     "paymentSummary": {
@@ -1123,7 +1100,7 @@
       "method": "CARD",
       "provider": "VISA",
       "installments": 1,
-      "paidAmount": 14.12,
+      "paidAmount": 21.12,
       "currency": "PEN"
     },
     "status": "DELIVERED",
@@ -1192,7 +1169,6 @@
         "appliedDiscounts": [],
         "totalAppliedDiscount": 0,
         "total": 12.5,
-        "serviceFee": 0.62,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       }
@@ -1207,12 +1183,11 @@
     "amounts": {
       "subtotal": 9.9,
       "totalDiscounts": 0,
-      "shippingFee": 0,
       "serviceFee": 0.5,
-      "deliveryFee": 0,
+      "deliveryFee": 10,
       "discountServiceFee": 0,
-      "discountDeliveryFee": 0,
-      "total": 10.4,
+      "discountDeliveryFee": 2,
+      "total": 18.4,
       "currency": "PEN"
     },
     "paymentSummary": {
@@ -1220,7 +1195,7 @@
       "method": "CARD",
       "provider": "VISA",
       "installments": 1,
-      "paidAmount": 10.4,
+      "paidAmount": 18.4,
       "currency": "PEN"
     },
     "status": "DELIVERED",
@@ -1289,7 +1264,6 @@
         "appliedDiscounts": [],
         "totalAppliedDiscount": 0,
         "total": 9.9,
-        "serviceFee": 0.5,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "5d56a0bf-03e5-44d8-81bf-941f21b3f248"
       }
@@ -1303,13 +1277,12 @@
     "unitsCount": 1,
     "amounts": {
       "subtotal": 15,
-      "totalDiscounts": 0.25,
-      "shippingFee": 0,
+      "totalDiscounts": 0,
       "serviceFee": 0.75,
-      "deliveryFee": 0,
+      "deliveryFee": 10,
       "discountServiceFee": 0.25,
-      "discountDeliveryFee": 0,
-      "total": 15.5,
+      "discountDeliveryFee": 2,
+      "total": 23.5,
       "currency": "PEN"
     },
     "paymentSummary": {
@@ -1317,7 +1290,7 @@
       "method": "CARD",
       "provider": "VISA",
       "installments": 1,
-      "paidAmount": 15.5,
+      "paidAmount": 23.5,
       "currency": "PEN"
     },
     "status": "DELIVERED",
@@ -1386,7 +1359,6 @@
         "appliedDiscounts": [],
         "totalAppliedDiscount": 0,
         "total": 15,
-        "serviceFee": 0.75,
         "sellerId": "fde03a5d-5202-43f8-b6a7-266cdc40c212",
         "sellerSubsidiaryId": "a9a7f3ee-0b29-41d8-8a76-5c703e88a24c"
       }
