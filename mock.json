@@ -10,6 +10,9 @@
       "totalDiscounts": 8.18,
       "shippingFee": 0,
       "serviceFee": 2.33,
+      "deliveryFee": 0,
+      "discountServiceFee": 0,
+      "discountDeliveryFee": 0,
       "total": 40.65,
       "currency": "PEN"
     },
@@ -129,7 +132,7 @@
           "measurementUnit": null,
           "unitConversionFactor": 1,
           "thumbImage": {
-            "url": "https://via.placeholder.com/800x800.png?text=Triple+Pollo+Pan+Integral",
+            "url": "https://realplaza.vtexassets.com/arquivos/ids/31709109-800-auto?v=638125191727430000&width=800&height=auto&aspect=true",
             "altText": "Triple Pollo En Pan Integral"
           }
         },
@@ -220,10 +223,13 @@
     "unitsCount": 6,
     "amounts": {
       "subtotal": 73.0,
-      "totalDiscounts": 6.9,
+      "totalDiscounts": 7.9,
       "shippingFee": 0,
       "serviceFee": 3.66,
-      "total": 69.76,
+      "deliveryFee": 3.5,
+      "discountServiceFee": 0,
+      "discountDeliveryFee": 1.0,
+      "total": 72.26,
       "currency": "PEN"
     },
     "paymentSummary": {
@@ -234,7 +240,7 @@
       "paidAmount": 0,
       "currency": "PEN"
     },
-    "status": "INPROGRESS",
+    "status": "IN-TRANSIT",
     "store": {
       "storeId": "2f61cf70-fbaa-4627-8dcc-749cf93cb3f1",
       "name": "JOKR",
@@ -466,10 +472,13 @@
     "unitsCount": 1,
     "amounts": {
       "subtotal": 23.9,
-      "totalDiscounts": 5.39,
+      "totalDiscounts": 5.89,
       "shippingFee": 0,
       "serviceFee": 1.2,
-      "total": 19.71,
+      "deliveryFee": 0,
+      "discountServiceFee": 0.5,
+      "discountDeliveryFee": 0,
+      "total": 19.21,
       "currency": "PEN"
     },
     "paymentSummary": {
@@ -480,7 +489,7 @@
       "paidAmount": 0,
       "currency": "PEN"
     },
-    "status": "INPROGRESS",
+    "status": "IN-TRANSIT",
     "store": {
       "storeId": "2f61cf70-fbaa-4627-8dcc-749cf93cb3f1",
       "name": "JOKR",
@@ -581,10 +590,13 @@
     "unitsCount": 3,
     "amounts": {
       "subtotal": 37.5,
-      "totalDiscounts": 6.2,
+      "totalDiscounts": 7.5,
       "shippingFee": 0,
       "serviceFee": 1.88,
-      "total": 33.18,
+      "deliveryFee": 2.5,
+      "discountServiceFee": 0.3,
+      "discountDeliveryFee": 1.0,
+      "total": 34.38,
       "currency": "PEN"
     },
     "paymentSummary": {
@@ -595,7 +607,7 @@
       "paidAmount": 0,
       "currency": "PEN"
     },
-    "status": "INPROGRESS",
+    "status": "IN-TRANSIT",
     "store": {
       "storeId": "2f61cf70-fbaa-4627-8dcc-749cf93cb3f1",
       "name": "JOKR",
@@ -740,10 +752,13 @@
     "unitsCount": 3,
     "amounts": {
       "subtotal": 54.7,
-      "totalDiscounts": 0,
+      "totalDiscounts": 2.0,
       "shippingFee": 0,
       "serviceFee": 2.73,
-      "total": 57.43,
+      "deliveryFee": 4.0,
+      "discountServiceFee": 0.5,
+      "discountDeliveryFee": 1.5,
+      "total": 59.43,
       "currency": "PEN"
     },
     "paymentSummary": {
@@ -751,7 +766,7 @@
       "method": "CARD",
       "provider": "VISA",
       "installments": 1,
-      "paidAmount": 57.43,
+      "paidAmount": 59.43,
       "currency": "PEN"
     },
     "status": "DELIVERED",
@@ -867,10 +882,13 @@
     "unitsCount": 2,
     "amounts": {
       "subtotal": 25.5,
-      "totalDiscounts": 0,
+      "totalDiscounts": 0.3,
       "shippingFee": 0,
       "serviceFee": 1.27,
-      "total": 26.77,
+      "deliveryFee": 0,
+      "discountServiceFee": 0.3,
+      "discountDeliveryFee": 0,
+      "total": 26.47,
       "currency": "PEN"
     },
     "paymentSummary": {
@@ -878,7 +896,7 @@
       "method": "CARD",
       "provider": "VISA",
       "installments": 1,
-      "paidAmount": 26.77,
+      "paidAmount": 26.47,
       "currency": "PEN"
     },
     "status": "DELIVERED",
@@ -997,6 +1015,9 @@
       "totalDiscounts": 0,
       "shippingFee": 0,
       "serviceFee": 0.6,
+      "deliveryFee": 0,
+      "discountServiceFee": 0,
+      "discountDeliveryFee": 0,
       "total": 12.5,
       "currency": "PEN"
     },
@@ -1008,7 +1029,7 @@
       "paidAmount": 0,
       "currency": "PEN"
     },
-    "status": "INPROGRESS",
+    "status": "IN-TRANSIT",
     "store": {
       "storeId": "2f61cf70-fbaa-4627-8dcc-749cf93cb3f1",
       "name": "JOKR",
@@ -1088,10 +1109,13 @@
     "unitsCount": 1,
     "amounts": {
       "subtotal": 12.5,
-      "totalDiscounts": 0,
+      "totalDiscounts": 0.5,
       "shippingFee": 0,
       "serviceFee": 0.62,
-      "total": 13.12,
+      "deliveryFee": 1.5,
+      "discountServiceFee": 0,
+      "discountDeliveryFee": 0.5,
+      "total": 14.12,
       "currency": "PEN"
     },
     "paymentSummary": {
@@ -1099,7 +1123,7 @@
       "method": "CARD",
       "provider": "VISA",
       "installments": 1,
-      "paidAmount": 13.12,
+      "paidAmount": 14.12,
       "currency": "PEN"
     },
     "status": "DELIVERED",
@@ -1185,6 +1209,9 @@
       "totalDiscounts": 0,
       "shippingFee": 0,
       "serviceFee": 0.5,
+      "deliveryFee": 0,
+      "discountServiceFee": 0,
+      "discountDeliveryFee": 0,
       "total": 10.4,
       "currency": "PEN"
     },
@@ -1276,10 +1303,13 @@
     "unitsCount": 1,
     "amounts": {
       "subtotal": 15,
-      "totalDiscounts": 0,
+      "totalDiscounts": 0.25,
       "shippingFee": 0,
       "serviceFee": 0.75,
-      "total": 15.75,
+      "deliveryFee": 0,
+      "discountServiceFee": 0.25,
+      "discountDeliveryFee": 0,
+      "total": 15.5,
       "currency": "PEN"
     },
     "paymentSummary": {
@@ -1287,7 +1317,7 @@
       "method": "CARD",
       "provider": "VISA",
       "installments": 1,
-      "paidAmount": 15.75,
+      "paidAmount": 15.5,
       "currency": "PEN"
     },
     "status": "DELIVERED",
